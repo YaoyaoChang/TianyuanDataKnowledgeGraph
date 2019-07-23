@@ -1,0 +1,7 @@
+backup*
+config
+data
+*.xlsx
+*.csv
+*.txt
+.ipynb_checkpoints
