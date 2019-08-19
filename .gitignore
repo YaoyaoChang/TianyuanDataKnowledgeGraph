@@ -5,3 +5,6 @@ data
 *.csv
 *.txt
 .ipynb_checkpoints
+result
+Ipynb_importer.py
+__pycache__/
