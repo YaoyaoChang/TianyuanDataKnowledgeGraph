@@ -8,3 +8,4 @@ data
 result
 Ipynb_importer.py
 __pycache__/
+.idea/
