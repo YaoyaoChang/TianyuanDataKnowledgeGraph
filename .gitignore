@@ -9,3 +9,4 @@ result
 Ipynb_importer.py
 __pycache__/
 .idea/
+.vscode/settings.json
